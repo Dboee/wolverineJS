@@ -1,2 +1,5 @@
 venv
 openai_key.txt
+.env
+node_modules
+package-lock.json

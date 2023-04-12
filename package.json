@@ -1,0 +1,35 @@
+{
+  "name": "wolverinejs",
+  "version": "1.0.0",
+  "description": "Give your JS scripts regenerative healing abilities!",
+  "main": "wolverine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dboee/wolverineJS.git"
+  },
+  "author": "Dboee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dboee/wolverineJS/issues"
+  },
+  "homepage": "https://github.com/Dboee/wolverineJS#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "child_process": "^1.0.2",
+    "diff": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "openai": "^3.2.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2",
+    "@types/diff": "^5.0.3",
+    "@types/node": "^18.15.11",
+    "tsconfig-paths": "^4.2.0",
+    "tsx": "^3.12.6"
+  }
+}
